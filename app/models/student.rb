@@ -21,4 +21,4 @@
       self.all
 
   end
-end
+
